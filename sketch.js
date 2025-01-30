@@ -65,7 +65,7 @@ function setup() {
   
    // Create an anchor tag that links to p5js.org.
   // Open the link in a new tab.
-  let f = createA('https://editor.p5js.org/creatureO/full/T5VU3fgSw', 'Planet Marados');
+  let f = createA('https://creatureo.github.io/Final-Voyage/', 'Planet Marados');
   f.position(960, 1360);
   
   
