@@ -59,7 +59,7 @@ function setup() {
   
       // Create an anchor tag that links to p5js.org.
   // Open the link in a new tab.
-  let e = createA('https://editor.p5js.org/creatureO/full/UkMG7wMhk', 'Astroid Belt');
+  let e = createA('https://creatureo.github.io/Asteroid-belt/', 'Astroid Belt');
   e.position(960, 1260);
   
   
