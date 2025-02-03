@@ -49,7 +49,7 @@ function setup() {
   
     // Create an anchor tag that links to p5js.org.
   // Open the link in a new tab.
-  let c = createA('https://editor.p5js.org/creatureO/full/L-plZuQX0', 'Alien Fleet');
+  let c = createA('https://creatureo.github.io/Happy-place/', 'Alien Fleet');
   c.position(960, 1060);
   
     // Create an anchor tag that links to p5js.org.
