@@ -71,7 +71,7 @@ function setup() {
   
   // Create an anchor tag that links to p5js.org.
   // Open the link in a new tab.
-  let g = createA('https://editor.p5js.org/creatureO/full/v-4YXE7a9', 'Activate Hyper Drive!');
+  let g = createA('https://creatureo.github.io/Flight-Cosmos/', 'Activate Hyper Drive!');
   g.position(780, 860);
   
   //links above
